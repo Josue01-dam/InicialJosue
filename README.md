@@ -1,0 +1,2 @@
+# InicialJosue
+primer ejercicio GitHub
